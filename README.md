@@ -9,5 +9,5 @@ Day 19 challenge of 21-days coding challenge
 
 ****
 
-Project link: [Get User Media Code Along](https://smtoyedeji.github.io/javascript21-19.github.io/)
+Project link: [Get User Media Code Along](https://smtoyedeji.github.io/getusermedia/)
 
